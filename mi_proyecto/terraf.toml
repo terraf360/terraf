@@ -1,0 +1,17 @@
+[proyecto]
+nombre = "prueba_exploración"
+creado = "2026-04-13"
+version_terraf = "0.1.0"
+
+[procesamiento]
+umbral_ior = 0.65
+umbral_clay = 0.55
+buffer_litologia = 500
+min_area_cluster = 10
+
+[exportacion]
+formato_default = "geojson"
+directorio_salida = "./resultados"
+
+[database]
+ruta = "./terraf.db"
