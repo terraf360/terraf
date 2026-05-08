@@ -1,0 +1,2 @@
+# Este directorio contiene los resultados generados por el análisis.
+# Los archivos de salida (PNG, GeoJSON, Shapefile) son ignorados por .gitignore.

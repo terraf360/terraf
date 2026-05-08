@@ -1,0 +1,12 @@
+# spectraf - Procesamiento de imágenes satelitales para geología
+
+# Dependencias principales
+numpy>=1.20.0
+rasterio>=1.2.0
+matplotlib>=3.3.0
+
+# Opcional para datos del SGM (shapefiles)
+geopandas>=0.10.0
+
+# Opcional para procesamiento avanzado
+scipy>=1.7.0
