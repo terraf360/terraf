@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Herramienta de exploración minera desde escritorio"
 requires-python = ">=3.10"
 dependencies = [
-    # Librería de procesamiento espectral (local hasta extraerse a su propio repo)
+    # Librería de procesamiento espectral (incluida como subcarpeta del repo)
     "spectraf @ file:./spectraf",
     # CLI
     "typer>=0.12.0",
